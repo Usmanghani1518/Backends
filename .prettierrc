@@ -1,0 +1,10 @@
+{"tabWidth":2,
+"semi":true,
+"singleQuote":true,
+"trailingComma":"es5",
+"bracketSpacing":true,
+"jsxBracketSameLine":true,
+"rangeStart":5,
+"rangeEnd":3,
+"requirePragma":true,
+"insertPragma":true}
